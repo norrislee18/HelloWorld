@@ -9,5 +9,6 @@ public class HelloWorld {
     	System.out.println("Im testing");
     	System.out.println("Thats great...");
     	System.out.println("5th statement");
+    	System.out.println("7th statement");
     }
 }
